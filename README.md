@@ -1,5 +1,5 @@
 # BMLD Informatik Leistungsnachweis 2
-## Todesfälle durch Atemwegsinfektionen 
+## Sterblichkeitsrate von Atemwegsinfektionen pro 100'000 Personen von 2000 bis 2020
 
 ### Gruppe:
 Phi Phi Cung und Lou-Salomé Frehner
