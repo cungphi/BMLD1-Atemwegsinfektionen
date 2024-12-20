@@ -1,5 +1,5 @@
 # BMLD1-Atemwegsinfektionen
-BMLD Informatik Leistungsnachweis 2: Todesfälle Atemwegsinfektionen 
+BMLD Informatik Leistungsnachweis 2: Todesfälle durch Atemwegsinfektionen 
 
 Gruppe:
 Phi Phi Cung und Lou-Salomé Frehner
